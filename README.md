@@ -1,5 +1,8 @@
-![smoke](/wr-960.webp)
+![Misha](/videoplayback-_online-video-cutter.com_.gif)
 
+### [cheatsheet-references](https://michmich.eu/Cheatsheets/cheatsheet-references/)
+### [A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries)
+### [RED-t-tools](https://github.com/lengjibo/RedTeamTools/tree/master/windows)
 ### [SHEET_1](https://0xsp.com/)   
 ### [SHEET_2](https://github.com/infosecn1nja/AD-Attack-Defense)
 ### [SHEET_3](https://github.com/rmusser01/Infosec_Reference/tree/master/Draft)
@@ -99,7 +102,7 @@ ________________________________________________________________________________
 -https://github.com/writeups/ios примечания к описанию уязвимости iOS
 -http://blog.safebuff.com/2016/07/03/SSRF-Tips/ руководство по эксплуатации уязвимости ssrf
 
-#### Учебный полигон
+#### Учебный полигоны
 
 -https://www.blackmoreops.com/2018/11/06/124-legal-hacking-websites-to-practice-and-learn/ 124 юридических веб-сайта, на которых можно практиковать методы взлома.
 -https://www.zhihu.com/question/267204109 Изучите веб-безопасность. Где я могу найти различные полигоны?
@@ -144,7 +147,7 @@ ________________________________________________________________________________
 -https://www.xssgame.com // Google XSS Challenge
 -http://xss.tv // Тир онлайн
 
-#### собрать сообщение
+#### собрать метаданные и прочую инфу для "пробива" систем.
 
 -https://github.com/smicallef/spiderfoot Использовать OSINT для автоматического поиска информации другой стороны, графического интерфейса пользователя, подключаемого модуля.
 -https://github.com/Nhoya/gOSINT перейти, использовать OSINT для автоматического сбора информации
@@ -322,7 +325,7 @@ ________________________________________________________________________________
 -https://github.com/lijiejie/htpwdScan simple, http brute force cracking, скрипт атаки столкновения библиотеки
 -https://github.com/scu-igroup/ssh-scanner ссылка nmap, hydra на пакетную очистку ssh
 
-#### Взлом пароля
+#### Взлом пароля (работа с хешами)
 
 -https://securityxploded.com/download.php Различные инструменты защиты паролей.
 -https://github.com/bdutro/ibm_pw_clear IBM x3550 / x3560 M3 инструмент для сброса пароля BIOS
@@ -655,7 +658,7 @@ ________________________________________________________________________________
 -https://github.com/0x4D31/salt-scanner Сканер уязвимостей Linux на основе Salt Open и Vulners Linux Audit API, поддерживает использование платформ JIRA и slack.
 -https://github.com/opensec-cn/kunpeng go, фреймворк обнаружения POC, предоставляет различные языковые вызовы в виде библиотеки динамической компоновки.
 
-#### Часто используемые плагины
+#### Часто используемые инструменты [cканнеры]:
 
 
 ##### Nessus
@@ -760,7 +763,7 @@ ________________________________________________________________________________
 -https://github.com/evilcos/cookiehacker расширение Chrome. JavaScript document.cookie / Wireshark Cookie
 -https://github.com/lfzark/cookie-injecting-tools Расширение Chrome, инструменты для внедрения файлов cookie включают в себя внедрение, редактирование, добавление и удаление файлов cookie.
 
-## Безопасность локально сети
+## Безопасность локальной сети
 
 #### Рекомендуемое к прочтению
 
@@ -1318,7 +1321,7 @@ ________________________________________________________________________________
 
 
 
-#### поиск web-shell в сайтах
+#### поиск web-shell-а в сайтах
 
 -http://www.safedog.cn/ Сетевой брандмауэр Safedog
 -http://d99net.net/ win, а D создал D shield_firewall, включая функции обнаружения waf и webshel
@@ -1330,7 +1333,7 @@ ________________________________________________________________________________
 -https://github.com/emposha/PHP-Shell-Detector Инструмент обнаружения веб-оболочки с эффективностью тестирования до 99%
 -https://github.com/emposha/Shell-Detector Инструмент сканирования веб-оболочки, поддержка сканирования веб-оболочки php / perl / asp / aspx
 
-#### стресс тест
+#### стресс тест [ DOS | DDOS ]
 
 -https://github.com/ywjt/Dshield защита от DDOS
 -https://github.com/NewEraCracker/LOIC/ Инструмент сетевого стресс-теста, разработанный для Windows, теперь поддерживает Mac OS-Translator's Note
@@ -1341,7 +1344,7 @@ ________________________________________________________________________________
 
 
 
-#### Приманка промышленного контроля
+#### Приманка промышленного контроля [горшочки c мядком]
 
 -https://github.com/sjhilt/GasPot аналоговая система управления нефтегазовой промышленностью
 -https://github.com/djformby/GRFICS Среда моделирования системы промышленного моделирования IoT, использующая протокол MODBUS для мониторинга и управления виртуальной машиной PLC
